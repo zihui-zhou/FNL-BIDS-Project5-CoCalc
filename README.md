@@ -2,6 +2,7 @@ Description
 -------------------
 
 This repository aims to test CoCalc, one of the most popular web-based cloud computing and course management platforms, in order to give suggestions on whether to use this platform for teaching or not. 
+**Since CoCalc (free plan) doesn't offer shareable link, I could not share the urls in this folder.**
 
 Pros & Cons
 -------------------
